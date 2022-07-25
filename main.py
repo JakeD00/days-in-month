@@ -22,8 +22,8 @@ def days_in_month(selected_year, selected_month):
       return month_days[selected_month-1]+1
   return month_days[selected_month-1]
   
-  
-#🚨 Do NOT change any of the code below 
+
+
 year = int(input("Enter a year: "))
 month = int(input("Enter a month: "))
 days = days_in_month(year, month)
