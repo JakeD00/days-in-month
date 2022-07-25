@@ -1,0 +1,1 @@
+# Program for checking how many days specific month in specific year has. User needs to provide proper year and month numbers(e.g. year 2000, month 12 - December)
